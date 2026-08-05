@@ -1,4 +1,4 @@
-public class mmain {
+public class W1P1 {
 
     static void checkDuplicateSeats(int[] seatNumbers) {
         boolean found = false;
