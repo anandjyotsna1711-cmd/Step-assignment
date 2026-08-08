@@ -1,4 +1,4 @@
-public class Main10 {
+public class W2P1 {
 
     static void checkPinLength(String pin) {
         if (pin.length() != 4) {
